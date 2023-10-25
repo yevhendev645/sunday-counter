@@ -1,0 +1,14 @@
+
+.sundays-page{
+    padding: 20px;
+}
+.date-picker{
+    display: flex;
+    margin-bottom: 20px;
+}
+.error{
+    color: red;
+    margin: 0;
+    margin-top: 5px;
+    font-size: 14px;
+}
